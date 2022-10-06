@@ -1,4 +1,5 @@
 **Game View**
+
 <img width="499" alt="Screen Shot 2022-10-05 at 5 25 27 PM" src="https://user-images.githubusercontent.com/90473308/194187723-d7e32a1e-8872-4d54-b161-ad241f366a11.png">
 
 You could go to res/lab6 - Tic Tac Toe View.jar and press it to play.
